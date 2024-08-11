@@ -1,1 +1,2 @@
 # EcodeCamp_internship_task_number_1_portfolio
+This portfolio website showcases the work and skills. It features sections for an introduction, personal and professional background, skills in web development, education, experience, and a portfolio of selected projects. The design uses a sleek black, yellow, and white color scheme, providing a modern and professional look. The site is fully responsive, ensuring it looks great on all devices, and includes essential contact information and social media links in the footer. 
